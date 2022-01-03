@@ -92,7 +92,7 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
 
     Construa um programa em que o usuário digite duas notas e mostre a média das notas e se o aluno está aprovado, em recuperação ou reprovado. Considerando aprovado o aluno com média maior igual a sete, em recuperação com média entre sete e cinco e reprovado com média menor que cinco.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=BWXNpCYvc1c)
 
 16. **ex016_calculoImc**:
 
@@ -108,23 +108,73 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
     |Maior igual a 35 e menor que 40|OBESIDADE SEVERA|
     |Maior igual a 40|OBESIDADE MORBIDA|
     
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=-Msa_ivV628)
 
 17. **ex017_dependentesFuncionario:**
 
     Elabore um programa em que o usuário digite seu nome, o seu salário atual e quantos dependentes ele tem. No final o programa deve apresentar o novo salário do funcionário de acordo com a quantidade de dependentes. Se ele não tem dependentes, aumento de 5%, se ele tem de 1 até 3 dependentes, aumento de 10%, se ele tem de 4 até 6, aumento de 15% e se ele tem mais de 6 dependentes, aumento de 18%.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=6eKOV3EnAXw)
 
 18. **ex018_aproveitamentoDeUmAluno:**
 
     Crie um programa em que o usuário digite duas notas e o programa apresente a média das notas e o aproveitamento do aluno, sendo: se a nota for maior ou igual a nove, aproveitamento A;  se a nota for maior ou igual a sete, aproveitamento B; se a nota for maior ou igual a cinco, aproveitamento C; se a nota for maior ou igual a 3, aproveitamento D; se a nota for maior ou igual a um, aproveitamento E; e se a nota for menor do que um, aproveitamento F.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=xa82rsNw5TA)
 
 19. **ex019_placarDoJogo**:
 
     Construa um programa em que seja digitado o placar de um jogo e no final apresente o status da partida de acordo com as seguintes condições: se a diferença for igual a zero, status empate, se a diferença for de um até três gols, então status normal e se a diferença for maior do que três, então status goleada.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=2cXwk5UUPCQ)
+
+20. **ex020_criançaEsperança**
+
+    Desenvolva um programa em que o usuário escolha quanto será a sua doação e no final o programa apresente uma mensagem de quanto foi a doação. Dica de página inicial: 
+
+    "Muito Obrigado por ajudar "
+
+    "[1] para doar R$10 "
+
+    "[2] para doar R$25 "
+
+    "[3] para doar R$50 "
+
+    "[4] para doar outros valores "
+
+    "[5] para cancelar "
+
+    Caso o usuário escolha “outros valores” o programa deverá informa no final quanto foi esse valor, conforme o valor inserido pelo usuário.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+21. **ex021_conteAteDez**
+
+    Elabore um programa que conte de 0 até 10. Use a estrutura de repetição “while”.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+22. **ex022_conteDeDezAteZero**
+
+    Desenvolva um programa que conte de 10 até 0. Use a estrutura de repetição “while”.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+23. **ex023_conteDeZeroAteOndeQuiser**
+
+    Desenvolva um programa que conte de 0 até onde quiser. O usuário também deve escolher de quanto será o pulo. Use a estrutura de repetição “while”.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+24. **ex024_somadorNumerico**
+
+    Construa um programa em que o usuário digite cinco valores e no final o programa apresente a soma total dos valores digitados. Use a estrutura de repetição “while”.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+25. ex025_somadorMaiorMenor
+
+    Crie um programa em que o usuário digite cinco valores e no final o programa apresente a soma total dos valores digitados, qual o maior valor e qual o menor valor digitado. Use a estrutura de repetição “while”.
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 

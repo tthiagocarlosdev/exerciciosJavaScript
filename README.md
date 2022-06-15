@@ -146,35 +146,40 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
 
     Caso o usuário escolha “outros valores” o programa deverá informa no final quanto foi esse valor, conforme o valor inserido pelo usuário.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/Nfdhf60Q_L0)
 
 21. **ex021_conteAteDez**
 
     Elabore um programa que conte de 0 até 10. Use a estrutura de repetição “while”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/eONsqi5aCAg)
 
 22. **ex022_conteDeDezAteZero**
 
     Desenvolva um programa que conte de 10 até 0. Use a estrutura de repetição “while”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/wVWnasWGlR0)
 
 23. **ex023_conteDeZeroAteOndeQuiser**
 
     Desenvolva um programa que conte de 0 até onde quiser. O usuário também deve escolher de quanto será o pulo. Use a estrutura de repetição “while”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/_4ue80kqQ80)
 
 24. **ex024_somadorNumerico**
 
     Construa um programa em que o usuário digite cinco valores e no final o programa apresente a soma total dos valores digitados. Use a estrutura de repetição “while”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/D0EeL3xXiY0)
 
 25. ex025_somadorMaiorMenor
 
     Crie um programa em que o usuário digite cinco valores e no final o programa apresente a soma total dos valores digitados, qual o maior valor e qual o menor valor digitado. Use a estrutura de repetição “while”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/_sKV63Mt54k)
 
+26. ex026_conversaoMoedaNVezes
+
+    Desenvolva um programa em que o usuário faça conversões de moeda. O usuário deve escolher quantas conversões ele realizará antes de digitar o valor em real que ele tem. O valor em real deve ser convertido para dólar.
+
+    [VÍDEO DE RESOLUÇÃO]()

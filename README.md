@@ -182,4 +182,10 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
 
     Desenvolva um programa em que o usuário faça conversões de moeda. O usuário deve escolher quantas conversões ele realizará antes de digitar o valor em real que ele tem. O valor em real deve ser convertido para dólar.
 
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/o8VwEr9Tih8)
+
+27. ex027_contadorInteligente
+
+    Elabore um programa em que o usuário digite o valor inicial e o valor final de uma contagem a ser mostrada pelo programa. Se o valor final for maior do que o inicial, a contagem será progressiva, caso contrário, a contagem será regressiva. 
+
     [VÍDEO DE RESOLUÇÃO]()

@@ -188,4 +188,10 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
 
     Elabore um programa em que o usuário digite o valor inicial e o valor final de uma contagem a ser mostrada pelo programa. Se o valor final for maior do que o inicial, a contagem será progressiva, caso contrário, a contagem será regressiva. 
 
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/H9Zk9C62X18)
+
+28. ex028_melhorAluno
+
+    Desenvolva um programa que receba a quantidade total de alunos de uma sala. Em seguida receba os nomes e notas desses alunos e no final mostre o aluno com a melhor nota e sua respectiva nota.
+
     [VÍDEO DE RESOLUÇÃO]()

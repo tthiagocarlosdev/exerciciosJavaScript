@@ -194,4 +194,16 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
 
     Desenvolva um programa que receba a quantidade total de alunos de uma sala. Em seguida receba os nomes e notas desses alunos e no final mostre o aluno com a melhor nota e sua respectiva nota.
 
-    [VÍDEO DE RESOLUÇÃO]()
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/8Zc-9mWmlWs)
+
+29. ex029_minhaTabuada
+
+    Desenvolva um programa que pede para o usuário escolher um número e seja mostrado a tabuada desse número.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+30. ex030_contaNegativos
+
+    Elabore um programa que receba até cinco números e no final mostre quantos números negativos foram digitados.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)

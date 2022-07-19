@@ -200,10 +200,23 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
 
     Desenvolva um programa que pede para o usuário escolher um número e seja mostrado a tabuada desse número.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/QYspX_sgPqU)
 
 30. ex030_contaNegativos
 
     Elabore um programa que receba até cinco números e no final mostre quantos números negativos foram digitados.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/uqhktMv9fwc)
+
+31. ex031_fatorial
+
+    Desenvolva um programa em que o usuário digite um número e o programa mostre o fatorial desse número. 
+
+    [VÍDEO DE RESOLUÇÃO]()
+
+32. ex032_fatorialRepeticao
+
+    Construa um programa em que o usuário digite um número e o programa mostre o fatorial desse número e no final pergunte se o usuário quer repetir a operação.
+
+    [VÍDEO DE RESOLUÇÃO]()
+

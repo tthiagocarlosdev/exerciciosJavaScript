@@ -212,11 +212,22 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
 
     Desenvolva um programa em que o usuário digite um número e o programa mostre o fatorial desse número. 
 
-    [VÍDEO DE RESOLUÇÃO]()
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/1wE9XWKf-Wk)
 
 32. ex032_fatorialRepeticao
 
     Construa um programa em que o usuário digite um número e o programa mostre o fatorial desse número e no final pergunte se o usuário quer repetir a operação.
 
-    [VÍDEO DE RESOLUÇÃO]()
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/JErdfqZBoSw)
 
+33. ex033_numeroPrimo
+
+    Crie um programa em que o usuário digite um número e mostre como resultado se esse número é primo ou não. Dica: um número primo é aquele que só pode ser dividido por um e por ele mesmo.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+34. ex034_superContador
+
+    Desenvolva um programa em que o usuário escolha em um menu se quer contar de 0 a 10 ou de 10 a 0.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)

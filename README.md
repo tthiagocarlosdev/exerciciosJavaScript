@@ -224,10 +224,22 @@ Desenvolva um programa em que o usuário digite duas notas e mostre a média das
 
     Crie um programa em que o usuário digite um número e mostre como resultado se esse número é primo ou não. Dica: um número primo é aquele que só pode ser dividido por um e por ele mesmo.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=MIFbVwUFOEM)
 
 34. ex034_superContador
 
     Desenvolva um programa em que o usuário escolha em um menu se quer contar de 0 a 10 ou de 10 a 0.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=-3nOl7Gk8RY)
+
+35. ex035_escolhendoPessoas
+
+    Elabore um programa em que realize o cadastro de homens e mulheres, suas idades e a cor da pele. No final mostre total de homens com mais de 18 anos e cabelos castanhos e o total de mulheres entre 25 e 30 anos e cabelos loiros. Menu da cor da pele: Preto, Castanho, Loiro e Ruivo.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+36. ex036_superContadorFor
+
+    Contrua um programa em que conte de 0 até 10 e de 10 até zero, usando a estrutura de repetição “for”.
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)

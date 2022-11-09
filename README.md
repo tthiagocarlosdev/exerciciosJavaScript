@@ -268,3 +268,41 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 
+41. ex041_sequenciaDeFibonacci
+
+    Construa um programa em que mostre 10 primeiros números da sequencia de Fibonacci. Use a estrutura de repetiçao “for”.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+42. ex042_analisadorDeValores
+
+    Faça um programa em que o usuário digite 5 valores e no final ele apresente: a soma dos valores,  a média entre os valores, quantos são divisíveis por 5, quantos são nulos e a soma dos valores pares. Use a estrutura de repetiçao “for”.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+43. ex043_procedimentoCabecalho
+
+    Volte para o exercício nº 35 e coloque o cabeçalho dentro de um procedimento. Depois execute o programa!
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+44. ex044_detectorPesado
+
+    Desenvolva um programa que o usuário digite o nome de cinco pessoas e o peso corporal de cada. A cada pessoa incluída no sistema, deve ser mostrado o maior peso cadastrado até o momento. No final deve ser apresentado o nome da pessoa que teve o maior peso e seu peso. Use estrutura de procedimentos.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+45. ex045_fazSomaProcedimento
+
+    Crie um programa que receba dois valores e apresente a soma entre os dois valores inseridos. Use estrutura de procedimento com passagem de parâmetro por valor.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+46. ex046_ParOuImparProcedimento
+
+    Elabore um programa que o usuário digite um valor e o programa informe se aquele valor é par ou ímpar. Use estrutura de procedimento com passagem de parâmetro por valor.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+47. 
+

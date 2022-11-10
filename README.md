@@ -334,5 +334,29 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 
-52. 
+52. ex052_analisadorDeStrings
+
+    Elabore um programa que o usuário digite seu nome e o programa retorne quantas letras tem o nome do usuário digitado; Retorne seu nome em maiúsculo, em minúsculo; Retorne a primeira e última letra do seu nome; Qual a posição da letra “A” no nome; qual o código ascii da letra “A” e o código ascii 65 corresponde a qual caractere.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+53. ex053_testeVetor
+
+    Desenvolva um programa em que o usuário digite seis valores e o programa apresente os seis valores. Use variáveis compostas (vetores/arrays).
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+54. ex054_valoresParesVetores
+
+    Crie um programa em que o usuário digite sete valores e no final o programa mostre a quantidade de valores pares digitados. Use variáveis compostas (vetores/arrays).
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+55. ex055_valoresParesVetores2
+
+    Elabore um programa em que o usuário digite sete valores e no final o programa mostre a quantidade de valores pares digitados e a posição de cada valor par digitado. Use variáveis compostas (vetores/arrays).
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+56. 
 

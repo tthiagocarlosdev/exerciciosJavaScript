@@ -304,5 +304,35 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 
-47. 
+47. ex047_fibonacciReferencia
+
+    Construa um programa que mostre os 15 primeiros números da sequência de Fibonacci. Use estrutura de procedimento com passagem de parâmetro por referência.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+48. ex048_somaFuncao
+
+    Desenvolva um programa em que o usuário digite dois valores e esses valores sejam passados para uma função. Essa função deve retornar a soma dos valores inseridos.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+49. ex049_parImparFuncao
+
+    Construa um programa que tenha uma função que receba um valor e retorne se o valor é par ou ímpar.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+50. ex050_fatorialFuncao
+
+    Elabore um programa o qual o usuário digite um número e o programa tenha uma função que retorne o fatorial do número digitado pelo usuário.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+51. ex051_fibonacciFuncao
+
+    Crie um programa que o usuário digite os dois valores iniciais da sequência de Fibonacci e o programa tenha uma função que retorne os valores seguintes da sequência de Fibonacci.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+52. 
 

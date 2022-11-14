@@ -374,5 +374,23 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 
-58. 
+58. ex058_OrdenaVetor
+
+    Crie um programa em que o usuário digite 10 valores de forma aleatória e no final o programa apresente os valores em ordem crescente.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+59. ex059_campeonatoFutebol
+
+    Elabore um programa em que seja cadastrado 3 times e no final seja mostrado uma tabela com os confrontos entre os times.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+60. ex060_corrigindoProvas
+
+    Construa um programa que seja cadastrado um gabarito com 5 questões. Cadastre também 3 alunos e as 5 respostas de cada aluno. Cada resposta correta do aluno valerá 2 pontos. No final o programa deve mostrar a lista com o nome dos alunos e a nota de cada aluno. Também deverá ser mostrado a média final da turma.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+61. 
 

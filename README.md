@@ -358,5 +358,21 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 
-56. 
+56. ex056_listagemDaTurma
+
+    Construa um programa em que sejam cadastrados os nomes de 4 alunos, e duas notas para cada aluno cadastrado. Ao final o programa deve apresentar um relatório que tenha:
+
+    - Uma lista com os nomes de cada aluno e suas respectivas médias;
+    - Outra lista com os nomes e o status de suas médias. Caso o aluno tenha média maior ou igual a 7, aluno aprovado, caso a nota seja menor do que 7, aluno reprovado. A lista de status deverá conter o nome seguido do status de cada usuário cadastrado;
+    - A quantidade de alunos com a média maior do que a média da turma e a média da turma. Use variáveis compostas (vetores/arrays).
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+57. ex057_soComC
+
+    Desenvolva um programa que sejam cadastrados 10 nomes de usuários. No final o programa deve apresentar uma lista com os nomes que começam com a letra “C”.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+58. 
 

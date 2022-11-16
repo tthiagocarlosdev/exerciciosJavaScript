@@ -398,9 +398,9 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 
-62. ex062_matriz3x2
+62. ex062_matriz3x3
 
-    Crie um programa que solicite ao usuario inserir valores numa matriz de ordem 3x2. No final o programa deverá apresentar os valores inseridos pelo usuário.
+    Crie um programa que solicite ao usuario inserir valores numa matriz de ordem 3x3. No final o programa deverá apresentar os valores inseridos pelo usuário.
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 

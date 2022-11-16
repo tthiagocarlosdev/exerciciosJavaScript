@@ -3,7 +3,7 @@ var input = require('readline-sync')
 //declaração de funções
 function cabecalho(){
   console.log(`------------------------------`)
-  console.log(`        ex062_matriz3x2`)
+  console.log(`        ex062_matriz3x3`)
   console.log(`------------------------------`)
 }
 
@@ -14,34 +14,36 @@ function rodape(){
 function criarMatriz(nLinha, nColuna){
   let matriz = []
   let array = []
+  let contador = 1
 
-  for(let i = 0; i < nLinha; i++){
-    for(let j = 0; j < nColuna; j++){
-      array.push(input.question(`Digite um valor: `))
+  for(let linha = 0; linha < nLinha; linha++){
+    for(let coluna = 0; coluna < nColuna; coluna++){
+      array.push(input.question(`Digite ${contador}º valor: `))
+      contador++
     }
     matriz.push(array)
     array = []
   }
- return matriz
+  return matriz
 }
 
-function motrarMatriz(matriz){
-  for(let c = 0; c < matriz.length; c++){
-    console.log(matriz[c])
+function mostrarMatriz(matriz){
+  for(let contador = 0; contador < matriz.length; contador++){
+    console.log(matriz[contador])
   }
 }
 
 //declaração de variáveis
-let matriz3x2 = []
+let matriz3x3 = []
 const NUMERO_DE_LINHAS = 3
-const NUMERO_DE_COLUNAS = 2
+const NUMERO_DE_COLUNAS = 3
 
 //entrada de dados
 cabecalho()
-matriz3x2 = criarMatriz(NUMERO_DE_LINHAS, NUMERO_DE_COLUNAS)
+matriz3x3 = criarMatriz(NUMERO_DE_LINHAS, NUMERO_DE_COLUNAS)
 
 //processamento e saída de dados
 console.clear()
 cabecalho()
-motrarMatriz(matriz3x2)
+mostrarMatriz(matriz3x3)
 rodape()

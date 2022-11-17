@@ -404,5 +404,23 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 
-63. 
+63. ex063_matriz3x3Par
+
+    Construa um programa que o usuario insira valores numa matriz 3x3. Deverá ser mostrada a posição a qual o usuário esta inserindo o valor. No final o programa deverá mostrar a matriz com todos o valores inseridos pelo usuário, destacando os valores pares. Deverá apresentar também o total de valores pares inseridos.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+64. ex064_MatrizIdentidade3x3
+
+    Elabore um programa que mostre uma __matriz identidade__ de ordem 3x3.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+65. ex065_Matriz4x4
+
+    Desenvolva um programa que o usuario insira valores numa matriz de ordem 4x4. O programa deverá apresentar o valores da matriz; a soma da Diagonal Principal, o produto da segunda linha e o maior valor da terceira coluna.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+66. 
 

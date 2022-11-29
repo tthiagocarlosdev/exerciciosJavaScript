@@ -422,5 +422,11 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
 
-66. 
+66. ex066_dissecandoMatriz
+
+    Crie um programa que o usuario insira valores numa matriz de ordem 4x4. O programa deve conter um menu com as opções: Matriz completa, Diagonal Esquerda-Direita, Triângulo Superior Direito, Triângulo Inferior Esquerdo, Diagonal Direita-Esquerda, Triângulo Inferior Direito, Triângulo Superior Esquerdo, Gerar outra Matriz e Encerrar Programa. O programa deve mostrar a matriz de acordo com a opção escolhida pelo usuário. Se o usuário escolhe matriz completa, deve ser mostrado a matriz completa, se o usuário escolher a diagonal principal, deve ser mostrado a diagonal principal e assim por diante.
+
+    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+
+67. 
 

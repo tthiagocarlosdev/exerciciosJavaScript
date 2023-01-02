@@ -232,29 +232,29 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=-3nOl7Gk8RY)
 
-35. ex035_escolhendoPessoas
+35. ### ex035_escolhendoPessoas
 
     Elabore um programa em que realize o cadastro de homens e mulheres, suas idades e a cor da pele. No final mostre total de homens com mais de 18 anos e cabelos castanhos e o total de mulheres entre 25 e 30 anos e cabelos loiros. Menu da cor da pele: Preto, Castanho, Loiro e Ruivo.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/b2MFAancoyc)
 
-36. ex036_superContadorFor
+36. ### ex036_superContadorFor
 
-    Contrua um programa em que conte de 0 até 10 e de 10 até zero, usando a estrutura de repetição “for”.
+    Construa um programa em que conte de 0 até 10 e de 10 até zero, usando a estrutura de repetição “for”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/TjFyRYUGgm4)
 
-37. ex037_somaValoresFor
+37. ### ex037_somaValoresFor
 
-    Faça um programa em que receba 5 valores e no final apresente a soma desses valores. Use a estrutura de repetiçao “for”.
+    Faça um programa em que receba 5 valores e no final apresente a soma desses valores. Use a estrutura de repetição “for”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/lp-ybW4nZF8)
 
-38. ex038_valoresPares
+38. ### ex038_valoresPares
 
-    Crie um programa em que o usuário digite um valor e o programa apresente apenas os valores pares da contagem progressiva até o valor digitado e os valores pares da contagem regressiva partindo do valor digitado. Use a estrutura de repetiçao “for”.
+    Crie um programa em que o usuário digite um valor e o programa apresente apenas os valores pares da contagem progressiva até o valor digitado e os valores pares da contagem regressiva partindo do valor digitado. Use a estrutura de repetição “for”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/bA7GzSbWVNk)
 
 39. ex039_quantosEntre0e10
 

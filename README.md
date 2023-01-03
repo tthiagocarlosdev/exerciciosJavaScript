@@ -256,17 +256,17 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://youtu.be/bA7GzSbWVNk)
 
-39. ex039_quantosEntre0e10
+39. ### ex039_quantosEntre0e10
 
-    Desenvolva um programa em que o usuário digite até 6 valores e no final o programa apresente o total de valores entre 0 e 10; e a soma desses valores entre 0 e 10 que forem impares. Use a estrutura de repetiçao “for” (para em português).
+    Desenvolva um programa em que o usuário digite até 6 valores e no final o programa apresente o total de valores entre 0 e 10; e a soma desses valores entre 0 e 10 que forem ímpares. Use a estrutura de repetição “for” (para em português).
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/iOZefe--AL4)
 
-40. ex040_combinacoes
+40. ### ex040_combinacoes
 
     Elabore um programa em que mostre as combinações de três valores, agrupado de dois em dois. Use a estrutura de repetiçao “for”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/0V68CtYQDSs)
 
 41. ex041_sequenciaDeFibonacci
 

@@ -268,71 +268,71 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://youtu.be/0V68CtYQDSs)
 
-41. ex041_sequenciaDeFibonacci
+41. ### ex041_sequenciaDeFibonacci
 
-    Construa um programa em que mostre 10 primeiros números da sequencia de Fibonacci. Use a estrutura de repetiçao “for”.
+    Construa um programa em que mostre 10 primeiros números da sequencia de Fibonacci. Use a estrutura de repetição “for”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/mZbwQ70h9gI)
 
-42. ex042_analisadorDeValores
+42. ### ex042_analisadorDeValores
 
-    Faça um programa em que o usuário digite 5 valores e no final ele apresente: a soma dos valores,  a média entre os valores, quantos são divisíveis por 5, quantos são nulos e a soma dos valores pares. Use a estrutura de repetiçao “for”.
+    Faça um programa em que o usuário digite 5 valores e no final ele apresente: a soma dos valores,  a média entre os valores, quantos são divisíveis por 5, quantos são nulos e a soma dos valores pares. Use a estrutura de repetição “for”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/yI3SOxfRCZ8)
 
-43. ex043_procedimentoCabecalho
+43. ### ex043_procedimentoCabecalho
 
     Volte para o exercício nº 35 e coloque o cabeçalho dentro de um procedimento. Depois execute o programa!
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/rqp-qW-aiu0)
 
-44. ex044_detectorPesado
+44. ### ex044_detectorPesado
 
     Desenvolva um programa que o usuário digite o nome de cinco pessoas e o peso corporal de cada. A cada pessoa incluída no sistema, deve ser mostrado o maior peso cadastrado até o momento. No final deve ser apresentado o nome da pessoa que teve o maior peso e seu peso. Use estrutura de procedimentos.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/DZMqFC-TFhI)
 
-45. ex045_fazSomaProcedimento
+45. ### ex045_fazSomaProcedimento
 
     Crie um programa que receba dois valores e apresente a soma entre os dois valores inseridos. Use estrutura de procedimento com passagem de parâmetro por valor.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/konvcqQuj8U)
 
-46. ex046_ParOuImparProcedimento
+46. ### ex046_ParOuImparProcedimento
 
     Elabore um programa que o usuário digite um valor e o programa informe se aquele valor é par ou ímpar. Use estrutura de procedimento com passagem de parâmetro por valor.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/hftvbC23dLY)
 
-47. ex047_fibonacciReferencia
+47. ### ex047_fibonacciReferencia
 
     Construa um programa que mostre os 15 primeiros números da sequência de Fibonacci. Use estrutura de procedimento com passagem de parâmetro por referência.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/tjCxS7YCR5E)
 
-48. ex048_somaFuncao
+48. ### ex048_somaFuncao
 
     Desenvolva um programa em que o usuário digite dois valores e esses valores sejam passados para uma função. Essa função deve retornar a soma dos valores inseridos.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/tJZPRu3YDY0)
 
-49. ex049_parImparFuncao
+49. ### ex049_parImparFuncao
 
     Construa um programa que tenha uma função que receba um valor e retorne se o valor é par ou ímpar.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/C7MNyIeog1Q)
 
-50. ex050_fatorialFuncao
+50. ### ex050_fatorialFuncao
 
     Elabore um programa o qual o usuário digite um número e o programa tenha uma função que retorne o fatorial do número digitado pelo usuário.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/mNzzCZmD9uo)
 
-51. ex051_fibonacciFuncao
+51. ### ex051_fibonacciFuncao
 
     Crie um programa que o usuário digite os dois valores iniciais da sequência de Fibonacci e o programa tenha uma função que retorne os valores seguintes da sequência de Fibonacci.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/ESxY6TKpTbI)
 
 52. ex052_analisadorDeStrings
 

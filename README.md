@@ -334,31 +334,31 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://youtu.be/ESxY6TKpTbI)
 
-52. ex052_analisadorDeStrings
+52. ### ex052_analisadorDeStrings
 
     Elabore um programa que o usuário digite seu nome e o programa retorne quantas letras tem o nome do usuário digitado; Retorne seu nome em maiúsculo, em minúsculo; Retorne a primeira e última letra do seu nome; Qual a posição da letra “A” no nome; qual o código ascii da letra “A” e o código ascii 65 corresponde a qual caractere.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/laFDZhlNGYo)
 
-53. ex053_testeVetor
+53. ### ex053_testeVetor
 
     Desenvolva um programa em que o usuário digite seis valores e o programa apresente os seis valores. Use variáveis compostas (vetores/arrays).
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/2t4z44Iozvk)
 
-54. ex054_valoresParesVetores
+54. ### ex054_valoresParesVetores
 
     Crie um programa em que o usuário digite sete valores e no final o programa mostre a quantidade de valores pares digitados. Use variáveis compostas (vetores/arrays).
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/sTBCUcTa9Y0)
 
-55. ex055_valoresParesVetores2
+55. ### ex055_valoresParesVetores2
 
     Elabore um programa em que o usuário digite sete valores e no final o programa mostre a quantidade de valores pares digitados e a posição de cada valor par digitado. Use variáveis compostas (vetores/arrays).
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/OhQGXGaUDMA)
 
-56. ex056_listagemDaTurma
+56. ### ex056_listagemDaTurma
 
     Construa um programa em que sejam cadastrados os nomes de 4 alunos, e duas notas para cada aluno cadastrado. Ao final o programa deve apresentar um relatório que tenha:
 
@@ -366,37 +366,37 @@ Tente responder e depois veja o vídeo da resolução!
     - Outra lista com os nomes e o status de suas médias. Caso o aluno tenha média maior ou igual a 7, aluno aprovado, caso a nota seja menor do que 7, aluno reprovado. A lista de status deverá conter o nome seguido do status de cada usuário cadastrado;
     - A quantidade de alunos com a média maior do que a média da turma e a média da turma. Use variáveis compostas (vetores/arrays).
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/D5mSblCWcOc)
 
-57. ex057_soComC
+57. ### ex057_soComC
 
     Desenvolva um programa que sejam cadastrados 10 nomes de usuários. No final o programa deve apresentar uma lista com os nomes que começam com a letra “C”.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/qVCQ1tb3AUI)
 
-58. ex058_OrdenaVetor
+58. ### ex058_OrdenaVetor
 
     Crie um programa em que o usuário digite 10 valores de forma aleatória e no final o programa apresente os valores em ordem crescente.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/i6yH_kzxgT4)
 
-59. ex059_campeonatoFutebol
+59. ### ex059_campeonatoFutebol
 
     Elabore um programa em que seja cadastrado 3 times e no final seja mostrado uma tabela com os confrontos entre os times.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/GlPviv7pSag)
 
-60. ex060_corrigindoProvas
+60. ### ex060_corrigindoProvas
 
     Construa um programa que seja cadastrado um gabarito com 5 questões. Cadastre também 3 alunos e as 5 respostas de cada aluno. Cada resposta correta do aluno valerá 2 pontos. No final o programa deve mostrar a lista com o nome dos alunos e a nota de cada aluno. Também deverá ser mostrado a média final da turma.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/InCw1lw_n4I)
 
-61. ex061_reservarCinema
+61. ### ex061_reservarCinema
 
-    Desenvolva um programa que simule a reserva de cadeiras de um cinema. No total serão 10 cadeiras. Quando o usuario escolher qual a sua cadeira, deverá ser apresentado quais as cadeiras estão livres e quais estão ocupadas. Caso o usuário escolha uma cadeira já ocupada, uma mensagem devera notificá-lo que a sua opção já foi escolhida e deverá perguntar se ele quer escolher outra. O programa sera encerrado quando o usuário optar por não escolher mais cadeiras.
+    Desenvolva um programa que simule a reserva de cadeiras de um cinema. No total serão 10 cadeiras. Quando o usuário escolher qual a sua cadeira, deverá ser apresentado quais as cadeiras estão livres e quais estão ocupadas. Caso o usuário escolha uma cadeira já ocupada, uma mensagem devera notificá-lo que a sua opção já foi escolhida e deverá perguntar se ele quer escolher outra. O programa será encerrado quando o usuário optar por não escolher mais cadeiras.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/B-B-uwA2ab0)
 
 62. ex062_matriz3x3
 

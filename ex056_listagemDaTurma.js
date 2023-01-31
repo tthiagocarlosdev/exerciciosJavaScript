@@ -3,7 +3,7 @@ var input = require('readline-sync')
 //declaração de funções
 function cabecalho(){
   console.log(`------------------------------`)
-  console.log(`     `)
+  console.log(`     ex056_listagemDaTurma`)
   console.log(`------------------------------`)
 }
 

@@ -398,39 +398,39 @@ Tente responder e depois veja o vídeo da resolução!
 
     [VÍDEO DE RESOLUÇÃO](https://youtu.be/B-B-uwA2ab0)
 
-62. ex062_matriz3x3
+62. ### ex062_matriz3x3
 
     Crie um programa que solicite ao usuario inserir valores numa matriz de ordem 3x3. No final o programa deverá apresentar os valores inseridos pelo usuário.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/t1vptA2qsbU)
 
-63. ex063_matriz3x3Par
+63. ### ex063_matriz3x3Par
 
     Construa um programa que o usuario insira valores numa matriz 3x3. Deverá ser mostrada a posição a qual o usuário esta inserindo o valor. No final o programa deverá mostrar a matriz com todos o valores inseridos pelo usuário, destacando os valores pares. Deverá apresentar também o total de valores pares inseridos.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/qklwj-EE1Po)
 
-64. ex064_MatrizIdentidade3x3
+64. ### ex064_MatrizIdentidade3x3
 
     Elabore um programa que mostre uma __matriz identidade__ de ordem 3x3.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/jU5VvIjSoek)
 
-65. ex065_Matriz4x4
+65. ### ex065_Matriz4x4
 
     Desenvolva um programa que o usuario insira valores numa matriz de ordem 4x4. O programa deverá apresentar o valores da matriz; a soma da Diagonal Principal, o produto da segunda linha e o maior valor da terceira coluna.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/fz193veHsLY)
 
-66. ex066_dissecandoMatriz
+66. ### ex066_dissecandoMatriz
 
-    Crie um programa que o usuario insira valores numa matriz de ordem 4x4. O programa deve conter um menu com as opções: Matriz completa, Diagonal Esquerda-Direita, Triângulo Superior Direito, Triângulo Inferior Esquerdo, Diagonal Direita-Esquerda, Triângulo Inferior Direito, Triângulo Superior Esquerdo, Gerar outra Matriz e Encerrar Programa. O programa deve mostrar a matriz de acordo com a opção escolhida pelo usuário. Se o usuário escolhe matriz completa, deve ser mostrado a matriz completa, se o usuário escolher a diagonal principal, deve ser mostrado a diagonal principal e assim por diante.
+    Crie um programa que o usuário insira valores numa matriz de ordem 4x4. O programa deve conter um menu com as opções: Matriz completa, Diagonal Esquerda-Direita, Triângulo Superior Direito, Triângulo Inferior Esquerdo, Diagonal Direita-Esquerda, Triângulo Inferior Direito, Triângulo Superior Esquerdo, Gerar outra Matriz e Encerrar Programa. O programa deve mostrar a matriz de acordo com a opção escolhida pelo usuário. Se o usuário escolhe matriz completa, deve ser mostrado a matriz completa, se o usuário escolher a diagonal principal, deve ser mostrado a diagonal principal e assim por diante.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/VGPiilA43zg)
 
-67. ex067_JogoDaVelha
+67. ### ex067_JogoDaVelha
 
     Crie um jogo da velha.
 
-    [VÍDEO DE RESOLUÇÃO](https://www.youtube.com/watch?v=0mHEuja3c_Y&list=PLHqoKScEn2PuAxQBubqmXHKbnAkrkHFIy)
+    [VÍDEO DE RESOLUÇÃO](https://youtu.be/xffUE9vBht0)
 
